@@ -103,7 +103,7 @@ Correlation rules
 Log source awareness
 ======================
 
-🧠 3. MITRE ATT&CK Awareness
+ 3. MITRE ATT&CK Awareness
 
 Many tickets reference behaviours such as:
 
@@ -174,6 +174,11 @@ MITRE ATT&CK mappings per ticket
 Small datasets of example logs
 
 Blue Team remediation notes
+Visual diagrams of investigation workflows
+
+Contact
+
+If you're viewing this as part of a job application or recruitment process, you're welcome to reach out via GitHub or LinkedIn.
 
 Visual diagrams of investigation workflows
 
